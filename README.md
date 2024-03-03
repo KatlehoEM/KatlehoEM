@@ -1,4 +1,4 @@
-![MasterHead](https://programmers.io/wp-content/uploads/2020/04/Dot-Net-Banner-Feb2-smart-dev-2020.jpg)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)
 <h1 align="center">Hi 👋, I'm Katleho Makhooane</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*VMmvImch6VU5pc2VktY1uw.gif">
